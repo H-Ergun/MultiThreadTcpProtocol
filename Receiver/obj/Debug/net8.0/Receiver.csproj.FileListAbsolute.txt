@@ -16,3 +16,4 @@ C:\Users\Hergu\source\repos\MultiThreadEnmosStudyCase\Receiver\bin\Debug\net8.0\
 C:\Users\Hergu\source\repos\MultiThreadEnmosStudyCase\Receiver\bin\Debug\net8.0\Shared.pdb
 C:\Users\Hergu\source\repos\MultiThreadEnmosStudyCase\Receiver\obj\Debug\net8.0\Receiver.csproj.AssemblyReference.cache
 C:\Users\Hergu\source\repos\MultiThreadEnmosStudyCase\Receiver\obj\Debug\net8.0\Receiver.csproj.CopyComplete
+C:\Users\Hergu\source\repos\MultiThreadEnmosStudyCase\Receiver\obj\Debug\net8.0\Receiver.sourcelink.json
