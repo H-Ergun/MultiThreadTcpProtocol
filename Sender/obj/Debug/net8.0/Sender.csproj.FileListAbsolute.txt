@@ -51,3 +51,4 @@ C:\Users\Hergu\source\repos\MultiThreadEnmosStudyCase\Sender\obj\Debug\net8.0\Se
 C:\Users\Hergu\source\repos\MultiThreadEnmosStudyCase\Sender\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Hergu\source\repos\MultiThreadEnmosStudyCase\Sender\bin\Debug\net8.0\Shared.dll
 C:\Users\Hergu\source\repos\MultiThreadEnmosStudyCase\Sender\bin\Debug\net8.0\Shared.pdb
+C:\Users\Hergu\source\repos\MultiThreadEnmosStudyCase\Sender\obj\Debug\net8.0\Sender.sourcelink.json
